@@ -1,0 +1,43 @@
+{
+ "mssv": "03262",
+ "ten": "PhamVanNgocVinh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "zink",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000162046.jpg",
+  "000000175703.jpg",
+  "000000177889.jpg",
+  "000000508269.jpg",
+  "000000056651.jpg",
+  "000000156986.jpg",
+  "000000157271.jpg",
+  "000000043719.jpg",
+  "000000515309.jpg",
+  "000000438099.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_155465.jpg",
+  "face_425647.jpg",
+  "face_496353.jpg",
+  "face_449454.jpg",
+  "face_476363.jpg",
+  "face_288853.jpg",
+  "face_99874.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-PhamVanNgocVinh"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-PhamVanNgocVinh"
+  }
+ }
+}
